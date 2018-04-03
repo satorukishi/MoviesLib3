@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data time="08:30" date="11/03/2017">
+    <Theaters>
+        <Theater>
+            <name>Playarte Cinemas - Bristol</name>
+            <address>Shopping Center 3</address>
+            <latitude>-23.5579001</latitude>
+            <longitude>-46.6611737</longitude>
+            <url>http://www.playartecinemas.com.br/cinemas/bri</url>
+        </Theater>
+        <Theater>
+            <name>Cinema Reserva Cultural</name>
+            <address>Av. Paulista, 900</address>
+            <latitude>-23.5652054</latitude>
+            <longitude>-46.6533147</longitude>
+            <url>http://www.reservacultural.com.br</url>
+        </Theater>
+        <Theater>
+            <name>Cinemark Patio Paulista</name>
+            <address>Rua Treze de Maio, 1947</address>
+            <latitude>-23.5706257</latitude>
+            <longitude>-46.6459902</longitude>
+            <url>https://www3.cinemark.com.br/sao-paulo/cinemas?cinema=723</url>
+        </Theater>
+        <Theater>
+            <name>Cinemark Cidade SP</name>
+            <address>Av. Paulista, 1230</address>
+            <latitude>-23.5636624</latitude>
+            <longitude>-46.6559043</longitude>
+            <url>https://www3.cinemark.com.br/sao-paulo/cinemas?cinema=2119</url>
+        </Theater>
+        <Theater>
+            <name>Espaco Itau de Cinema</name>
+            <address>R. Frei Caneca, 569</address>
+            <latitude>-23.5542087</latitude>
+            <longitude>-46.6547578</longitude>
+            <url>http://www.itaucinemas.com.br/pag/sao-paulo-shopping-frei-caneca</url>
+        </Theater>
+    </Theaters>
+</Data>
